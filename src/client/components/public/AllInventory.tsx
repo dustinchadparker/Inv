@@ -74,6 +74,12 @@ class IAllInventory extends React.Component<IAllInventoryProps, IAllInventorySta
             <label className="col-sm">{inventory.item}</label>
             <label className="col-sm" >${inventory.cost}</label>
             <input className="col-sm" type="text" />
+            {/* I NEED TO PUT SOMETHING LIKE THE FOLLOWING HERE:::
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                  this.setState({ cart.id: inventory.id, cart.value: e.target.value })/>
+                  
+                  I ADDED AN ARRAY TO TRY TO STORE THOSE VALUES BUT IT WON'T LET ME FOR SOME REASON
+                  I THINK MY CART STATE IS SET UP BADLY OR SOMETHING*/}
 
 
           </div>
