@@ -1,0 +1,18 @@
+{
+  "0": {
+    "item": "Bath Salts",
+    "cost": "10"
+  },
+  "1": {
+    "item": "Laptop",
+    "cost": "1000"
+  },
+  "2": {
+    "item": "Lightsaber",
+    "cost": "100"
+  },
+  "3": {
+    "item": "Battle Pod",
+    "cost": "250"
+  }
+}
