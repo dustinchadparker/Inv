@@ -22,7 +22,7 @@
     "@types/reactstrap": "^7.1.1",
     "bootstrap": "^4.3.1",
     "css-loader": "^1.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
